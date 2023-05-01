@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/mvc/vendor/composer" />
+      <path value="$PROJECT_DIR$/mvc/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/mvc/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/mvc/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/mvc/vendor/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/mvc/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/mvc/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/mvc/vendor/nyholm/psr7-server" />
+      <path value="$PROJECT_DIR$/mvc/vendor/nyholm/psr7" />
+      <path value="$PROJECT_DIR$/mvc/vendor/php-di/php-di" />
+      <path value="$PROJECT_DIR$/mvc/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/mvc/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/mvc/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/mvc/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/mvc/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/mvc/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/mvc/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/mvc/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/mvc/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/mvc/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/mvc/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/mvc/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/mvc/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/mvc/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/mvc/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/mvc/vendor/php-http/message-factory" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
